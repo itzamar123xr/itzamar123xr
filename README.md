@@ -2,7 +2,4 @@
 - 👀 I’m interested in Coding and iam a intermediate level web developer + beginner level full stack developer
 - 🌱 I’m currently learning ... (Currently iam a front end developer)
 - 💞️ I’m looking to collaborate on small projects 
-- 📫 How to reach me? a) u can contact me through discord which is - itzcrazy07x or Instagram - __ crazy_but_smart __
-
-
-(remove space)
+- 📫 How to reach me? a) u can contact me through discord which is - itzcrazy07x or Instagram - __ crazy_but_smart __ (Space Remove)
